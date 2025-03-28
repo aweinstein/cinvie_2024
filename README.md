@@ -1,2 +1,1 @@
-# cinvie_2024
-Código del paper "  EEGraSP: Biblioteca para el procesamiento del electroencefalograma usando procesamiento deseñales sobre grafos"
+This repository contains the code to reproduce the results of the paper ["EEGraSP: Biblioteca para el procesamiento del electroencefalograma usando procesamiento deseñales sobre grafos"](https://ingeniare.uta.cl/index.php/inge/article/view/1458), presented at the [CINVIE](https://cinvie.uv.cl/) conference.
